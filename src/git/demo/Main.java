@@ -10,7 +10,7 @@ package git.demo;
 public class Main {
 
 	/**
-	 * @param args
+	 * @param args 
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hello Giasdasdt");
